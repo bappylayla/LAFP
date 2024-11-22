@@ -30,7 +30,7 @@
     <link href="<?= base_url ?>assets/css/custom.css" rel="stylesheet">
 
     <!-- jQUery -->
-    <script src="<?= base_url ?>assets/js/jquery-3.6.4.min.js"></script>
+    <!-- <script src="<?// base_url ?>assets/js/jquery-3.6.4.min.js"></script> -->
     <script src="<?= base_url ?>assets/js/script.js"></script>
         <script src="<?= base_url ?>assets/vendor/select2-4.1.0-rc.0/dist/js/select2.min.js"></script>
 
